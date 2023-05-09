@@ -1,0 +1,53 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+body {
+    background-image: url(/Image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table {
+    opacity: 90%;
+    font-size: 15px;
+}
+
+h1 {
+    text-align: center;
+    position: center;
+    font-size: 55px;
+    align-items: center;
+    opacity: 90%;
+}
+
+img {
+    opacity: 40%;
+}
+
+.orientacion {
+    position: revert;
+    left: 0px;
+}
+
+.texto-fondo {
+    color: white;
+    background-color: #212121;
+    opacity: 90%;
+}
